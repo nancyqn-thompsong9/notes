@@ -29,3 +29,6 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 5. Practice problem-solving: Take online coding challenges, such as LeetCode, HackerRank, Project Euler, to practice your problem solving skills and improve in different areas of programming.    
 6. Network with other developers: Connect with your peers on social media platforms like LinkedIn, Twitter, GitHub to share knowledge, ask questions, collaborate on projects, get feedback, find job opportunities,  etc.     
 7. Reflect on your work: Regularly evaluate your coding skills to identify areas for improvement and growth. This can include reviewing your code, learning from others' code reviews, analyzing your performance on coding tests, identifying your strengths and weaknesses, setting goals,  and tracking your progress.
+
+# 2023-11-20
+- "Keep it simple, stupid!"
