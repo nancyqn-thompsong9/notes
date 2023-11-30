@@ -84,3 +84,6 @@ Finally, stay organised. Use version control systems, like Git, to manage your c
 
 # 2023-11-29
 - "Keep it simple, stupid!"
+
+# 2023-11-30
+- "Keep it simple, stupid!"
