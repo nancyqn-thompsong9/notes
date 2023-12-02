@@ -90,3 +90,6 @@ Finally, stay organised. Use version control systems, like Git, to manage your c
 
 # 2023-12-01
 - Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means focusing on simplicity and avoiding unnecessary complexity. It's better to write code that does one thing well than to try and anticipate every possible future need. By keeping your codebase lean and maintainable, you'll be able to adapt to changing requirements more easily and with less technical debt.
+
+# 2023-12-02
+- "Keep it simple, stupid!"
