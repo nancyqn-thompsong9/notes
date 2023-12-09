@@ -119,3 +119,10 @@ This quote reminds us that while optimizing code for performance can be importan
 
 # 2023-12-08
 - Today's programming wisdom is to write code that is easy to read and understand. This means using clear and concise variable names, commenting your code thoroughly, and breaking down complex tasks into smaller, more manageable functions. Remember that other developers (including future you) will likely have to read and modify your code at some point, so making it as easy to follow as possible will save time and headaches in the long run. Additionally, writing readable code can also help you catch bugs and errors more easily, since it's easier to spot mistakes when the code is well-organized and easy to follow.
+
+# 2023-12-09
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a solid foundation for your career, allowing you to easily adapt to the ever-changing landscape of technology. 
+ - 了解最新技术、工具和最佳实践。
+- 对基本原理有深入理解，如数据结构、算法、计算机架构、操作系统等。
