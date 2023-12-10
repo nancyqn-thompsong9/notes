@@ -126,3 +126,6 @@ This quote reminds us that while optimizing code for performance can be importan
 To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a solid foundation for your career, allowing you to easily adapt to the ever-changing landscape of technology. 
  - 了解最新技术、工具和最佳实践。
 - 对基本原理有深入理解，如数据结构、算法、计算机架构、操作系统等。
+
+# 2023-12-10
+- Today's programming wisdom is to prioritize readability and maintainability in your code. Writing clean, well-structured code that is easy to understand and modify will save time and headaches in the long run, especially when working on large projects with multiple developers. Use descriptive variable names, write comments to explain complex logic, and follow established coding conventions and best practices. Remember that code is read far more often than it is written, so make it easy for others (and your future self) to read and work with your code.
