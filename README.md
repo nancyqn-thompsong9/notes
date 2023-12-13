@@ -139,3 +139,8 @@ To be successful in programming, it' s essential to have a deep understanding of
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break down the task into smaller, manageable steps, then allocate time for each step. Having a clear plan will make it easier to stay on track and avoid getting lost in the code. 
  <p>
 Lastly, staying organized is essential. Use version control systems like Git to keep track of your code and collaborate with others. Keep your workspace clean and tidy, with well-organized files and folders. Additionally, use code editors and IDE' s (Integrated Development Environments) that support code navigation and auto-completion, which can save time and reduce the risk of making mistakes.
+
+# 2023-12-13
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, bugs, and wasted time. It's often better to write simple, clear code first and optimize only when profiling indicates that it's truly necessary.
