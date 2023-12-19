@@ -170,3 +170,8 @@ This quote reminds us that optimizing code before it's necessary can lead to ove
 6. Always write clean, well-documented code that follows best practices and coding standards. Code reviews and peer programming sessions can help with this as well.     
 7. Understand the importance of testing and continuous integration/continuous deployment (CI/CD) to ensure your software works as expected and is reliable. Tools like JUnit, TestNG, Selenium, Jenkins, Travis CI, CircleCI, GitLab CI/ CD, GitHub Actions can be helpful for implementing these practices.      
 8. Communicate effectively with team members, clients, stakeholders, users, managers, colleagues, supervisors, customers, end-users, developers, testers, support staff, sales team, marketing team. Write clear, concise, accurate, organized, logical, grammatically correct, error-free, relevant, timely, appropriate, polite, courteous, respectful, honest, transparent, ethical, legal, confidential, security-conscious, privacy-aware, secure, safe, complete, correct documents, emails, messages, reports, presentations, slides, charts, graphs, tables, diagrams, spreadsheets, forms, contracts, agreements, licenses, permissions, waivers, consents, appraisals, evaluations, assessments, audits, inspections, reviews, studies, surveys, questionnaires, interviews, focus groups, ethnographies, case studies.
+
+# 2023-12-19
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+Focus on writing clean, readable, and maintainable code first. Optimization can always be done later if necessary, but over-optimizing early on can lead to complex and hard-to-understand code that is difficult to maintain in the long run.
