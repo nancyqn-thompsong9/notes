@@ -175,3 +175,8 @@ This quote reminds us that optimizing code before it's necessary can lead to ove
 - "Premature optimization is the root of all evil." - Donald Knuth. 
 
 Focus on writing clean, readable, and maintainable code first. Optimization can always be done later if necessary, but over-optimizing early on can lead to complex and hard-to-understand code that is difficult to maintain in the long run.
+
+# 2023-12-20
+- "Premature optimization is the root of all evil" - Donald Knuth. 
+
+Focus on writing clean, readable, and maintainable code first. Optimization should only be done if it is necessary and after profiling has identified performance bottlenecks.
