@@ -215,3 +215,10 @@ This reminds us that while it's easy to create complex solutions, the true art o
 
 # 2023-12-31
 - "Keep it simple, stupid!"
+
+# 2024-01-01
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In software development, it emphasizes that writing clean, concise code with minimal complexity often leads to more maintainable, scalable and bug-free programs. Always strive to reduce unnecessary complexity and favor readability over cleverness in your code." 
+
+"Another pearl: 'Premature optimization is the root of all evil.' — Donald Knuth. This reminds us not to optimize code without profiling and identifying bottlenecks first. Instead, focus on getting the logic right and making it clear before optimizing for performance."
+
+"Lastly, 'Code is read much more often than it is written.' This principle highlights the importance of writing code that is easily understandable by others (and yourself in the future), as maintenance and collaboration are significant aspects of software development lifecycle."
