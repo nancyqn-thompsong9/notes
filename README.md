@@ -294,3 +294,9 @@ In practice, this means:
 
 # 2024-01-17
 - "Keep it simple, stupid!"
+
+# 2024-01-18
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving higher priority to tasks that require more time and effort, you can ensure that you complete them on time.
+
+Second, make a plan for your day or week, breaking down larger projects into smaller, manageable tasks. Using a task management tool, such as Trello or Asana, can help keep you organized and on track. Set reminders and deadline for each task, so you stay focused and don't forget anything. 
+ ..最后，保持代码整洁和可读性。遵循编程最佳实践，如使用有意义的变量名、添加注释和遵循代码风格指南。这将使你的代码更容易理解和维护，同时也展示了你作为专业开发者的素养。
