@@ -320,3 +320,8 @@ Optimization before understanding the full scope of a problem can result in comp
 
 # 2024-01-23
 - "Keep it simple, stupid!"
+
+# 2024-01-24
+- Today's programming wisdom: "Code is read more often than it's written. Strive for clarity and maintainability in your code, as it will be the roadmap for others (and future you) to navigate through the logic. Write expressive variable names, comments that explain why rather than what, and structure your code modularly for easier understanding and testing." 
+
+In brief, "Write code that is easy to understand and maintain, because readability counts."
