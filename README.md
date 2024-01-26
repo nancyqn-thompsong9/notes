@@ -334,3 +334,6 @@ In brief, "Write code that is easy to understand and maintain, because readabili
 3. Set deadlines for each tasks; this will keep you focused and on track with your project. Deadlines can motivate you and help prevent procrastination. Make sure to give yourself enough time to finish each step, but not too much time that you might get lazy.  
 4. Stay organized: Keep your code, project files, notes, etc. in order and easy to find. Using version control systems like Git can make this easier and prevent you from losing work if you ever need to restart or revert to an earlier version.   
 5. Learn from others: Read blogs, watch tutorials, attend meetups or conferences to learn new techniques, tools, best practices, tips, tricks, ideas, from other developers. It'll help grow your skills and knowledge.
+
+# 2024-01-26
+- "Keep it simple, stupid!"
