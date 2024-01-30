@@ -350,3 +350,6 @@ In brief, "Write code that is easy to understand and maintain, because readabili
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to other aspects. Prioritizing tasks also helps you stay focused and avoid getting sidetracked by less important tasks or distractions. 
  ---
  Second, planning ahead is essential. Before beginning a new project or tackling a difficult problem, take some time to plan your approach. Think about the different ways you could solve the problem and the resources you might need to complete the task. Creating a plan can help ensure you have all the information you need and that you don't waste time trying to figure out the best approach after you start working. Planning also makes it easier to adapt to changes or new information as you work on your task, allowing youto stay flexible and efficient.
+
+# 2024-01-30
+- "Keep it simple, stupid!"
