@@ -466,3 +466,6 @@ Remember to take breaks throughout the day to clear your mind and refocus. Addit
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the project down into smaller, manageable steps, so that it is easier to stay on track and avoid getting lost in the details. Use project management tools, such as Trello or Asana, to keep track of your progress and ensure everything is in order. 
  - 来自NLP
+
+# 2024-02-23
+- "Keep it simple, stupid!"
