@@ -498,3 +498,9 @@ In practice, this means:
 6. Stay organized and clean: Maintaining a clean and organized workspace can greatly improve your productivity. Keep your code, files,and tools organized to reduce the time spent searching for information or finding the right file.     
 7. Learn from your mistakes: As a programmer, making mistakes is a part of the process.Learn from them and use them as opportunities to grow and improve. Don't be afraid to ask for help or advice from others.      
 8. Continuously learn and adapt: The field of programming is constantly evolving, so it' s essential to continue learning and adapting to new technologies and techniques. Keeping up with industry trends and best practices will make you more effective and efficient in whatyou do.
+
+# 2024-02-27
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the project down into smaller, manageable chunks, assign a deadline to each chunk, then start working on them in order. Planning ahead will also help prevent last-minute panic and stress, as you will be better prepared for any challenges that may arise. 
+ - 来自NLP
