@@ -516,3 +516,10 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques like the "MoSCoW" method to categorize your task as Must have, Should have or Could have.This will ensure you are focusing your efforts on the most important aspects of a task. 
  其次，提前计划。在开始一个项目之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免不必要的麻烦。为你即将进行的任务制定一个详细的计划，包括代码结构、功能实现和测试。This plan will serve as a guide for your work and can be easily referenced as you progress through the code. It will also help to minimize the amount of time spent on troubleshooting and debugging issues.
+
+# 2024-03-01
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, always strive for clarity and simplicity in your solutions. It's easier to read, understand, maintain, and debug a simple piece of code than a complex one. Remember that code is written once but read many times over its lifetime. So, when you can, opt for straightforward implementations that minimize complexity and maximize readability." 
+
+"Also, 'Premature optimization is the root of all evil.' - Donald Knuth. Focus on writing correct and clear code first, then optimize only if necessary and after profiling. Over-optimizing early on often leads to harder-to-understand and less maintainable code." 
+
+And finally, "Code is like a poem. The best poems are those that convey a wealth of meaning with an economy of words. Strive to write such code."
